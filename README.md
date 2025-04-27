@@ -1,3 +1,5 @@
+# Project Overview.
+
 The Hotel Domains and Revenue Project is designed to provide a deep dive into how different digital domains and distribution channels impact a hotel’s revenue streams. The primary objective is to unlock a detailed understanding of where revenue is generated, the strengths and weaknesses of each channel, and how strategic adjustments can drive financial performance. This project is not just an academic exercise—it’s a practical toolkit for hotel managers and stakeholders seeking to harness data for smarter, revenue-enhancing decisions.
 
 # Objectives
